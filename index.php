@@ -24,7 +24,7 @@ A challenge that I'm doing with friends. Each of us will do 1 website per day.
 </li>
 
 <li class="day-li">
-<a class="day-a" href="">DAY 2
+<a class="day-a" href="">
 </a>
 </li>
 
