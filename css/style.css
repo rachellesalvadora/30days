@@ -3,6 +3,11 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+.main-a {
+color: black;
+text-decoration: none;
+}
+
 .sticky-link-home {
 
 background: rgba(193, 225, 253, 0.5);

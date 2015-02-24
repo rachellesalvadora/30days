@@ -20,18 +20,31 @@
 
 <div class="sticky-link-home">
 
-<h3 class="sticky-home">HOME</h3>
+<h3 class="sticky-home">
+<a class="main-a" href="index.php">
+HOME
+</a>
+</h3>
 
 <div class="sticky-links">
 <ul class="sticky-ul">
 
-<li class="sticky-li">Website
+<li class="sticky-li">
+<a class="main-a" href="http://rachellesalvadora.com/">
+Website
+</a>
 </li>
 
-<li class="sticky-li"> Blog
+<li class="sticky-li">
+<a class="main-a" href="http://blog.rachellesalvadora.com">
+Blog
+</a>
 </li>
 
-<li class="sticky-li"> Github
+<li class="sticky-li">
+<a class="main-a" href="https://github.com/rachellesalvadora">
+Github
+</a>
 </li>
 
 </ul>
