@@ -1,0 +1,76 @@
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.sticky-link-home {
+
+background: rgba(193, 225, 253, 0.5);
+bottom: 0;
+}
+
+
+.sticky-home {
+font-size: 20px;
+font-weight: 100;
+padding: 10px;
+margin: 0;
+text-align: left;
+float: left;
+margin-left: 25px;
+}
+
+.sticky-link-home {
+height: 50px;
+}
+
+.sticky-links {
+float: right;
+}
+
+.sticky-ul {
+list-style: none;
+text-align: right;
+display: flex;
+margin-right: 35px;
+}
+
+.sticky-li {
+padding-left: 10px;
+}
+
+.banner {
+font-size: 85px;
+font-weight: 100;
+margin: 0;
+padding: 130px 0px 0px 0px;
+text-shadow: black 0px 1px 20px;
+}
+
+.banner-p {
+text-shadow: black 1px 1px 10px;
+}
+
+.body-title {
+height: 400px;
+background: url("../img/banner.JPG");
+text-align: center;
+background-size: cover;
+background-repeat: no-repeat;
+color: rgb(255, 255, 255);
+background-position-y: -315px;
+}
+
+.day-a {
+text-decoration: none;
+color: black;
+font-size: 20px;
+}
+
+.list {
+text-align: center;
+}
+
+.day-ul {
+list-style: none;
+}
