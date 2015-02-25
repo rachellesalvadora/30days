@@ -86,13 +86,10 @@ visibility: hidden;
 position: fixed;
 }
 
-.day2body {
-}
 
 .day2-title {
 text-align: center;
-color: antiquewhite;
-text-shadow: black 1px 1px 6px;
+color: rgb(68, 68, 68);
 }
 
 .day2-h1 {
@@ -102,26 +99,10 @@ width: 290px;
 margin: 0 auto;
 }
 
-.audio {
-margin: 0 auto;
-width: 900px;
-background: rgba(240, 248, 255, 0.92);
-border: 5px black solid;
-height: 105px;
-}
 
-.audio-title {
-float: left;
-}
 
-.audio-content {
-float: right;
-padding: 35px;
-}
 
-.audio-title {
-padding-left: 50px;
-}
+
 
 .day2-grid {
 width: 940px;
@@ -200,7 +181,14 @@ background: rgb(68, 134, 45);
 background: rgb(58, 186, 74);
 }
 
-
+.grid:hover {
+-webkit-transition: background .5s;
+transition: background .5s;
+-ms-transform: rotate(7deg);
+-webkit-transform: rotate(7deg);
+transform: rotate(180deg);
+opacity: .6;
+}
 
 
 

@@ -13,7 +13,7 @@
 	<![endif]-->
 
 	<link rel="stylesheet" href="css/style.css">
-	<link type="text/javascript" href="js/sound.js">
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 
 </head>
