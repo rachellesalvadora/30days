@@ -20,6 +20,17 @@ strong, b { font-weight: bold; }
 table { border-collapse: collapse; border-spacing: 0; }
 img { border: 0; max-width: 100%; }
 
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+ol, ul { list-style: none; }
+
+input, textarea { 
+  -webkit-font-smoothing: antialiased;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  outline: none; 
+}
+
 h1 {
 font-family: 'Open Sans', sans-serif;
 color: #96ACCF;
@@ -35,7 +46,19 @@ h1 span {
   color: #73aded;
 }
 
-
+h3 {
+  display: block;
+  width: 770px;
+  margin: 0 auto;
+  font-size: 0.6em;
+  line-height: 1.0em;
+  margin-bottom: 18px;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1.3em;
+  color: #ccc;
+  text-align: center;
+}
 
 
 /* page structure */
@@ -55,12 +78,13 @@ background: #FAD5D5;
 .options {
 display: block;
 text-align: right;
-font-size: 1.2em;
+font-size: 12px;
 line-height: 16px;
 font-weight: bold;
 color: #8B8B8B;
 margin-bottom: 8px;
 }
+
 .options .sorticon {
   position: relative;
   top: 3px;
@@ -89,8 +113,7 @@ margin-bottom: 8px;
 #listdisplay li {
 display: block;
 width: 100%;
-padding: 12px 8px;
-margin-bottom: 1px;
+padding-bottom: 10px;
 border-bottom: 1px solid #aaa;
 padding-left: 0;
 }
@@ -107,18 +130,19 @@ width: 260px;
 
 #listdisplay li .innercontent h2 {
 font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-font-size: 3.0em;
+font-size: 30px;
 line-height: 1.35em;
 margin-bottom: 4px;
 color: #6B91BB;
 font-weight: bold;
+margin-top: 20px;
+padding-top: 20px;
 }
 
 #listdisplay.thumbview li {
   display: block;
   width: 360px;
   float: left;
-  margin-right: 10px;
   margin-bottom: 7px;
   border: 0;
 }
@@ -133,10 +157,15 @@ font-weight: bold;
   text-align: center;
 }
 #listdisplay.thumbview li .innercontent h2 {
-  font-size: 2.2em;
+font-size: 30px;
 }
 #listdisplay.thumbview li .innercontent p {
   display: none;
+}
+
+#listdisplay {
+padding-left: 10px;
+padding-right: 10px;
 }
 
 /* clearfix */
@@ -151,6 +180,7 @@ font-size: 1.4em;
 line-height: 1.2em;
 margin-bottom: 10px;
 color: #325E79;
+font-size: 14px;
 }
 
 
