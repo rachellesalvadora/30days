@@ -30,7 +30,7 @@ A challenge that I'm doing with friends. Each of us will do 1 website per day.
 
 <li class="day-li">
 <a class="day-a" href="day3">
-DAY 3: "Switch Display"
+DAY 3: "Switch Display and Larger Images Viewer"
 </a>
 </li>
 

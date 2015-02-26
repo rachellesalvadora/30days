@@ -83,6 +83,7 @@ line-height: 16px;
 font-weight: bold;
 color: #8B8B8B;
 margin-bottom: 8px;
+float: right;
 }
 
 .options .sorticon {
@@ -183,6 +184,15 @@ color: #325E79;
 font-size: 14px;
 }
 
+.instructions {
+display: block;
+text-align: left;
+font-size: 12px;
+line-height: 16px;
+font-weight: bold;
+color: #8B8B8B;
+margin-bottom: 8px;
+}
 
 .main-a {
 color: black;
@@ -354,4 +364,16 @@ margin: 0;
             transform: none;
   }
 }
+}
+
+.arrow-right {
+margin-left: 88%;
+opacity: .3;
+border-radius: 50%;
+}
+
+.arrow-left {
+margin-right: 88%;
+opacity: .3;
+border-radius: 50%;
 }
