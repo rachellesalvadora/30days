@@ -75,7 +75,7 @@ Github
           <span class="listimg"><a href=""><img src="images/2.jpg"></a></span>
           <span class="innercontent">
             <h2>Fantail Goldfish</h2>
-            <p>Telescope eyes do not develop until the fish is 6 months old. Its fins are less developed than the Ryukin. It supports double anal and tail fins. The anal and caudal fins are well divided into two matching halves. Although generally considered a hardy goldfish, Fantails can be sensitive to prolonged exposure to low water temperatures. Keeping Fantails in an aquarium requires an ideal temperature of 73 to 74 degrees Fahrenheit</p>
+            <p>Telescope eyes do not develop until the fish is 6 months old. Its fins are less developed than the Ryukin. It supports double anal and tail fins. The anal and caudal fins are well divided into two matching halves. </p>
           </span>
         </li><!-- row #2 -->
         <li class="clearfix">
@@ -89,7 +89,7 @@ Github
           <span class="listimg"><a href=""><img src="images/4.jpg"></a></span>
           <span class="innercontent">
             <h2>Lemon</h2>
-            <p>The lemon (Citrus × limon) is a small evergreen tree native to Asia. The tree's ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, though the pulp and rind (zest) are also used in cooking and baking. The juice of the lemon is about 5% to 6% citric acid, which gives lemons a sour taste. The distinctive sour taste of lemon juice makes it a key ingredient in drinks and foods such as lemonade and lemon meringue pie.</p>
+            <p>The lemon (Citrus × limon) is a small evergreen tree native to Asia. The tree's ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, though the pulp and rind (zest) are also used in cooking and baking. </p>
           </span>
         </li><!-- row #4 -->
         <li class="clearfix">

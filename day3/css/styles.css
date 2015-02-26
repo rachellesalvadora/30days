@@ -1,25 +1,5 @@
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-  outline: none;
-  -webkit-font-smoothing: antialiased;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
+
 html { overflow-y: scroll; }
-body {
-  font-family: Arial, Tahoma, sans-serif;
-  font-size: 62.5%; 
-  line-height: 1;
-  padding-bottom: 55px;
-}
 
 body {
   margin: 0;
@@ -32,18 +12,6 @@ body {
 
 br { display: block; line-height: 1.6em; } 
 
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
-ol, ul { list-style: none; }
-
-input, textarea { 
-  -webkit-font-smoothing: antialiased;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  outline: none; 
-}
 
 blockquote, q { quotes: none; }
 blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
@@ -67,19 +35,7 @@ h1 span {
   color: #73aded;
 }
 
-h3 {
-  display: block;
-  width: 770px;
-  margin: 0 auto;
-  font-size: 0.6em;
-  line-height: 1.0em;
-  margin-bottom: 18px;
-  font-family: 'Open Sans', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 1.3em;
-  color: #ccc;
-  text-align: center;
-}
+
 
 
 /* page structure */
@@ -131,11 +87,12 @@ margin-bottom: 8px;
 }
 
 #listdisplay li {
-  display: block;
-  width: 100%;
-  padding: 12px 8px;
-  margin-bottom: 1px;
-  border-bottom: 1px solid #aaa;
+display: block;
+width: 100%;
+padding: 12px 8px;
+margin-bottom: 1px;
+border-bottom: 1px solid #aaa;
+padding-left: 0;
 }
 
 #listdisplay li a img {
@@ -212,18 +169,22 @@ bottom: 0;
 
 
 .sticky-home {
-font-size: 25px;
+font-size: 20px;
 font-weight: 100;
 padding: 10px;
 margin: 0;
 text-align: left;
 float: left;
 margin-left: 25px;
+line-height: normal;
 }
 
 .sticky-link-home {
 height: 50px;
+background: rgba(193, 225, 253, 0.5);
+bottom: 0;
 }
+
 
 .sticky-links {
 float: right;
@@ -237,10 +198,8 @@ margin-right: 35px;
 }
 
 .sticky-li {
-
-font-size: 20px;
 font-weight: 100;
-padding: 10px;
+padding-left: 10px;
 margin: 0;
 }
 
