@@ -55,69 +55,75 @@ Github
 </div>
 
 </div>
-  <h1>Switch <span>Display Options</span></h1>
+  <h1 class="">Switch <span>Display</span></h1>
   
-  <div id="w">
+  <div id="w" class="bounce animated hinge">
     <span class="options">Switch Options: 
       <a href="#" id="details-list" class="sorticon active" title="List View"><img src="images/details-list.png" alt="list"></a> 
       <a href="#" id="thumbnails-list" class="sorticon" title="Thumbnail View"><img src="images/thumbnails-list.png" alt="thumbnails"></a>
     </span>
-    <div id="content">
-      <ul id="listdisplay" class="clearfix">
+    <div id="content" class="">
+      <ul id="listdisplay" class=" clearfix">
         <li class="clearfix">
-          <span class="listimg"><a href="http://dribbble.com/shots/1314496-80-s-Wrestlers-Hulk-Hogan" target="_blank"><img src="images/1.jpg"></a></span>
+          <span class="listimg"><a href=""><img src="images/1.jpg"></a></span>
           <span class="innercontent">
-            <h2>Hulk Hogan</h2>
-            <p>In non gravida nulla, quis vehicula velit. Praesent ac felis vel tortor auctor tincidunt. In non luctus neque. In congue molestie pretium. Sed vitae cursus risus. Pellentesque feugiat tortor massa, ut aliquet justo fermentum vitae.</p>
+            <h2>Flag of Australia</h2>
+            <p>The Australian National Flag has three elements on a blue background: the Union Jack, the Commonwealth Star and the Southern Cross. The Union Jack in the upper left corner (or canton) acknowledges the history of British settlement. Below the Union Jack is a white Commonwealth or Federation star.</p>
           </span>
         </li><!-- row #1 -->
         <li class="clearfix">
-          <span class="listimg"><a href="http://dribbble.com/shots/1314855-Rocking-Chair" target="_blank"><img src="images/2.jpg"></a></span>
+          <span class="listimg"><a href=""><img src="images/2.jpg"></a></span>
           <span class="innercontent">
-            <h2>Rocking Chair</h2>
-            <p>Proin fermentum dignissim turpis, ut condimentum sapien rutrum eget. Nunc imperdiet, augue id tempus gravida, lacus quam venenatis eros, a porta velit nunc vel massa.</p>
+            <h2>Fantail Goldfish</h2>
+            <p>Telescope eyes do not develop until the fish is 6 months old. Its fins are less developed than the Ryukin. It supports double anal and tail fins. The anal and caudal fins are well divided into two matching halves. Although generally considered a hardy goldfish, Fantails can be sensitive to prolonged exposure to low water temperatures. Keeping Fantails in an aquarium requires an ideal temperature of 73 to 74 degrees Fahrenheit</p>
           </span>
         </li><!-- row #2 -->
         <li class="clearfix">
-          <span class="listimg"><a href="http://dribbble.com/shots/1315499-Boston" target="_blank"><img src="images/3.jpg"></a></span>
+          <span class="listimg"><a href=""><img src="images/3.jpg"></a></span>
           <span class="innercontent">
-            <h2>Boston</h2>
-            <p>Nam gravida, felis quis lacinia pulvinar, est velit rhoncus turpis, ac faucibus odio lorem vitae felis. Ut metus augue, ultrices ac faucibus non, dapibus eu augue. Quisque molestie augue non purus egestas ornare.</p>
+            <h2>Flower</h2>
+            <p>The seed-bearing part of a plant, consisting of reproductive organs (stamens and carpels) that are typically surrounded by a brightly coloured corolla (petals) and a green calyx (sepals).</p>
           </span>
         </li><!-- row #3 -->
         <li class="clearfix">
-          <span class="listimg"><a href="http://dribbble.com/shots/1315252-Orca" target="_blank"><img src="images/4.jpg"></a></span>
+          <span class="listimg"><a href=""><img src="images/4.jpg"></a></span>
           <span class="innercontent">
-            <h2>Orca</h2>
-            <p>Etiam molestie, magna sed vestibulum porta, nulla sapien aliquam purus, non euismod sem neque quis lectus.</p>
+            <h2>Lemon</h2>
+            <p>The lemon (Citrus × limon) is a small evergreen tree native to Asia. The tree's ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, though the pulp and rind (zest) are also used in cooking and baking. The juice of the lemon is about 5% to 6% citric acid, which gives lemons a sour taste. The distinctive sour taste of lemon juice makes it a key ingredient in drinks and foods such as lemonade and lemon meringue pie.</p>
           </span>
         </li><!-- row #4 -->
         <li class="clearfix">
-          <span class="listimg"><a href="http://dribbble.com/shots/1314878-Radio" target="_blank"><img src="images/5.jpg"></a></span>
+          <span class="listimg"><a href=""><img src="images/5.jpg"></a></span>
           <span class="innercontent">
-            <h2>Radio</h2>
-            <p>unc venenatis rutrum aliquet. Nullam lectus metus, congue vel lacus luctus, placerat ultrices quam. Donec sed imperdiet massa. Suspendisse id lorem quis sem dignissim ornare a sed nulla.</p>
+            <h2>Melbourne CBD</h2>
+            <p>Melbourne City Centre (sometimes referred to as "Central City",[2] and colloquially known as simply "The City") is an area of Melbourne, Victoria, Australia.</p>
           </span>
         </li><!-- row #5 -->
         <li class="clearfix">
-          <span class="listimg"><a href="http://dribbble.com/shots/1315420-Video-card" target="_blank"><img src="images/6.jpg"></a></span>
+          <span class="listimg"><a href=""><img src="images/6.jpg"></a></span>
           <span class="innercontent">
-            <h2>Video Card</h2>
-            <p>Sed placerat lobortis tellus, sit amet eleifend dolor venenatis at. Sed eget malesuada eros. Vivamus porttitor lorem in suscipit molestie.</p>
+            <h2>A Sunset of the City</h2>
+            <p>It is a real chill out,
+The genuine thing.
+I am not deceived, I do not think it is still summer   
+Because sun stays and birds continue to sing.
+<br />
+- GWENDOLYN BROOKS
+</p>
           </span>
         </li><!-- row #6 -->
         <li class="clearfix">
-          <span class="listimg"><a href="http://dribbble.com/shots/1313615-Fireside" target="_blank"><img src="images/7.jpg"></a></span>
+          <span class="listimg"><a href=""><img src="images/7.jpg"></a></span>
           <span class="innercontent">
-            <h2>Fireside</h2>
-            <p>Duis non pellentesque elit. Donec vel varius lectus. Suspendisse mauris arcu, feugiat non sapien et, egestas pellentesque ante. Fusce ac eleifend augue, in egestas tellus.</p>
+            <h2>Road</h2>
+            <p>A wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use.</p>
           </span>
         </li><!-- row #7 -->
         <li class="clearfix">
-          <span class="listimg"><a href="http://dribbble.com/shots/1308512-Racc-pack"><img src="images/8.jpg"></a></span>
+          <span class="listimg"><a href=""><img src="images/8.jpg"></a></span>
           <span class="innercontent">
-            <h2>Racc-pack</h2>
-            <p>Nullam ut sollicitudin neque. Fusce arcu risus, interdum luctus neque vel, viverra interdum ligula. Sed vehicula, dolor id posuere elementum, ligula leo aliquam nisi, non laoreet est diam aliquam nisl.</p>
+            <h2>Seaside</h2>
+            <p>At the beach, life is different. Time doesn't move our to hour but mood to movement. We live by the currents and follow the sun.</p>
           </span>
         </li><!-- row #8 -->
       </ul>
